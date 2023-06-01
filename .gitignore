@@ -1,5 +1,1 @@
-accsess.log
-node-modules/
-/coverage/
-/db/*.sqlite
-doc/**/*.txt
+INFO.mdt
